@@ -2,7 +2,7 @@
   <source src="https://www.freepik.com/free-video/rear-of-the-close-up-of-the-female-software-developer-in-glasses-working-and-hacking-programs-or-codes-at-the-big-screen-of-computer-at-night_168703#position=28&term=software&from_view=search" type="video/mp4">
 </video>
 
-[![MasterHead](https://www.freepik.com/free-video/rear-of-the-close-up-of-the-female-software-developer-in-glasses-working-and-hacking-programs-or-codes-at-the-big-screen-of-computer-at-night_168703#position=28&term=software&from_view=search)]
+[![MasterHead](https://iconscout.com/lottie/software-engineer-developed-website-6764693)]
 <h1 align="center">Hi 👋, I'm Gaurav Goswami</h1>
 <h3 align="center">Software Developer</h3>
 
