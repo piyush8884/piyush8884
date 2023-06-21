@@ -1,6 +1,10 @@
 [![MasterHead](https://img.freepik.com/free-vector/web-development-isometric-concept-composition-illustration_1284-55922.jpg?w=996&t=st=1687308360~exp=1687308960~hmac=996ac32187ceeb73dd6840b18e774831a0cc202b3939d5a6790864dea4ca5aed)]
 <h1 align="center">Hi 👋, I'm Gaurav Goswami</h1>
 <h3 align="center">Software Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush8884&label=Profile%20views&color=0e75b6&style=flat" alt="piyush8884" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush8884" alt="piyush8884" /></a> </p>
 
 - 🔭 I’m currently working on [Automation Projects](https://github.com/piyush8884/JobScout)
 
@@ -13,7 +17,7 @@
 - 📫 How to reach me **gauravofficial8884@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1W71Smxi9YNb6qg-piDHtlQDNJR4KQtKi/view?usp=sharing](https://drive.google.com/file/d/1W71Smxi9YNb6qg-piDHtlQDNJR4KQtKi/view?usp=sharing)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-goswami-2031/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-goswami-2031/" height="30" width="40" /></a>
