@@ -2,7 +2,7 @@
   <source src="https://www.freepik.com/free-video/rear-of-the-close-up-of-the-female-software-developer-in-glasses-working-and-hacking-programs-or-codes-at-the-big-screen-of-computer-at-night_168703#position=28&term=software&from_view=search" type="video/mp4">
 </video>
 
-[![MasterHead](https://img.freepik.com/free-vector/web-development-isometric-concept-composition-illustration_1284-55922.jpg?w=996&t=st=1687308360~exp=1687308960~hmac=996ac32187ceeb73dd6840b18e774831a0cc202b3939d5a6790864dea4ca5aed)]
+[![MasterHead](https://www.freepik.com/free-video/rear-of-the-close-up-of-the-female-software-developer-in-glasses-working-and-hacking-programs-or-codes-at-the-big-screen-of-computer-at-night_168703#position=28&term=software&from_view=search)]
 <h1 align="center">Hi 👋, I'm Gaurav Goswami</h1>
 <h3 align="center">Software Developer</h3>
 
